@@ -1,4 +1,4 @@
 flume-azure
 ===========
 
-Sinks and Sources for Azure technologies (ServiceBus, Queue, Table storage, Blob storage)
+This project provides Flume-NG channels, sources, and sinks on Azure set of technologies (ServiceBus, Queue, Blob, Table storage).
